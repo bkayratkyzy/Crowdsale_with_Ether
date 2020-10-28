@@ -1,1 +1,1 @@
-# advanced_solidity_hw
+# Crowdsale to raise funds with token
